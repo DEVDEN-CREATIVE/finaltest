@@ -1,5 +1,5 @@
 {
-  "homepages": "http://ashish7777777.github.io/testagain",
+  "homepages": "https://ashish7777777.github.io/finaltest/",
   "name": "handpose",
   "version": "0.1.0",
   "private": true,
@@ -16,7 +16,7 @@
     "react-webcam": "^5.2.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
